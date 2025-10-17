@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    font-size: 35px;
+  
+}
+.container{
+    height: fit-content;
+}
+#c1,#c2{
+    height: 450px;
+}
+.row{
+    height: 300px;
+}
